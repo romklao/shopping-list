@@ -68,7 +68,6 @@ function setupItemDelete() {
 }
 
 $(function() {
-  var itemDataAttr = 'data-list-item-id';
   setupFormSubmit();
   setupItemToggle();
   setupItemDelete();
